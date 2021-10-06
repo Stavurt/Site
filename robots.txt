@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://z9996835.beget.tech/sitemap.xml

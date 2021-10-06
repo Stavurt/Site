@@ -1,0 +1,9 @@
+.content{margin: 143px;/*height: 100%;*/}
+.title{text-align: center;font-size: 28px;}
+.text{font-size: 26px;}
+.link{color: #184AFF;text-decoration: none;}
+@media(max-width: 770px){
+	.content{margin: 70px 35px 0;}
+	.title{font-size: 19px;}
+	.text{font-size: 17px;}
+}
